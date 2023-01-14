@@ -1,0 +1,9 @@
+Jan 13 21:32:29.228 INFO Running dfx start for version 0.12.1, version: 0.12.1
+Jan 13 21:32:29.229 INFO Using the default definition for the 'local' shared network because /Users/mbeekman/.config/dfx/networks.json does not exist., version: 0.12.1
+Jan 13 21:32:34.045 INFO Dashboard: http://localhost:56960/_/dashboard, version: 0.12.1
+Jan 13 22:37:51.939 INFO Stopping canister http adapter..., version: 0.12.1
+Jan 13 22:37:51.944 INFO Stopped., version: 0.12.1
+Jan 13 22:37:51.944 INFO Stopping the replica..., version: 0.12.1
+Jan 13 22:37:51.953 INFO Stopped., version: 0.12.1
+Jan 13 22:37:51.955 INFO Stopping icx-proxy..., version: 0.12.1
+Jan 13 22:37:51.957 INFO Stopped., version: 0.12.1

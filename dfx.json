@@ -3,19 +3,6 @@
     "bootcamp_memory_backend": {
       "main": "src/bootcamp_memory_backend/main.mo",
       "type": "motoko"
-    },
-    "bootcamp_memory_frontend": {
-      "dependencies": [
-        "bootcamp_memory_backend"
-      ],
-      "frontend": {
-        "entrypoint": "src/bootcamp_memory_frontend/src/index.html"
-      },
-      "source": [
-        "src/bootcamp_memory_frontend/assets",
-        "dist/bootcamp_memory_frontend/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {
